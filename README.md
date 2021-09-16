@@ -1,2 +1,2 @@
 # CRUD-JUAN-PALOMINO
-Crud de prueba de conocimiento
+Crud de angular con mysql
